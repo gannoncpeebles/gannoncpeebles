@@ -1,4 +1,4 @@
 - 👋 Hi! My name is Gannon Peebles.
 - 🔎 I am interested in delving into computer science and its interactions with the outside world.
-- ✏️ I am studying Computer Science and Statistics, but I love to find intersections between the two.
+- ✏️ I am studying Computer Science and Statistics; I love to find intersections between the two.
 - 📬 You can reach me at gcp2127@columbia.edu or gannoncpeebles@gmail.com
